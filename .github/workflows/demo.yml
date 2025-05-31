@@ -3,7 +3,7 @@ name: Demo
 on:
   push:
     branches:
-      - slave
+      - master
 
 jobs:
   deploy:
